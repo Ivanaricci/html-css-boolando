@@ -97,3 +97,12 @@ main{
     padding: 4px 10px;
 }
 
+.heart{
+    background-color: white;
+    position: absolute;
+    right: 0;
+    top: 10px;
+    padding: 8px 15px;
+    font-size: 25px;
+}
+
