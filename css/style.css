@@ -118,3 +118,23 @@ main{
 p{
     display: inline;
 }
+
+
+footer{
+    background-color: rgb(30, 30, 30);
+}
+
+.container-footer{
+    max-width: 1100px;
+    margin: 0px auto;
+    padding: 35px 0px;
+}
+
+
+.title-footer{
+    margin-bottom: 10px;
+}
+
+.icon-footer{
+    background-color: white;
+}
