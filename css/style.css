@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    max-width: 1200px;
+    margin: 0px auto;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.flex{
+    display: flex;
+}
+
+header{
+    background-color: orange;
+    
+}
+
+.text-white{
+    color: white;
+}
+
+.logo-header{
+    width: 10%;
+}
+
+.link-gender{
+    padding: 20px;
+}
+
+.icons{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+}
