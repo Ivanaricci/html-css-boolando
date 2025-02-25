@@ -106,3 +106,14 @@ main{
     font-size: 25px;
 }
 
+.text-red{
+    color: red;
+}
+
+.text-line-through{
+    text-decoration: line-through;
+}
+
+p{
+    display: inline;
+}
