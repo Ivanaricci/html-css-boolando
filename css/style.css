@@ -42,12 +42,6 @@ header{
     padding: 20px;
 }
 
-.icons{
-    width: 20px;
-    height: 20px;
-    background-color: red;
-}
-
 
 main{
     padding-top: 100px ;
@@ -137,4 +131,9 @@ footer{
 
 .icon-footer{
     background-color: white;
+    color: black;
+    text-align: center;
+    padding: 6px;
+    margin: 12px 3px;   
 }
+
