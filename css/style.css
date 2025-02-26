@@ -72,6 +72,22 @@ main{
     max-width: 100%;
 }
 
+.front-image{
+    display: inline-block;
+}
+
+.back-image{
+    display: none;
+}
+
+.card:hover .front-image{
+    display: none;
+}
+
+.card:hover .back-image{
+    display:inline-block
+}
+
 
 .label{
     padding:5px 0px;
